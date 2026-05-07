@@ -11,8 +11,8 @@ Proyek ini merupakan hasil kolaborasi dua mahasiswa dari Teknik Elektro konsentr
  
 | Sub Judul | Fokus | Peneliti |
 |-----------|-------|----------|
-| **Analisis dan Perancangan Sistem Informasi Jual-Beli Mobil Bekas pada Aplikasi Mobilindo Berbasis Website** | Core sistem: database, arsitektur, UML, simulasi kredit, frontend & backend | [Harish Falih Agniawan] |
-| **Integrasi Chatbot Multi-Agent dan RAG Chatbot Berbasis N8N untuk Optimalisasi Layanan Showroom Mobil** | AI layer: chatbot RAG, multi-agent, automation workflow N8N | [Andre Dzikry Surya Atmojo] |
+| **Analisis dan Perancangan Sistem Informasi Jual-Beli Mobil Bekas pada Aplikasi Mobilindo Berbasis Website** | Core sistem: database, arsitektur, UML, simulasi kredit, frontend & backend | Harish Falih Agniawan |
+| **Integrasi Chatbot Multi-Agent dan RAG Chatbot Berbasis N8N untuk Optimalisasi Layanan Showroom Mobil** | AI layer: chatbot RAG, multi-agent, automation workflow N8N | Andre Dzikry Surya Atmojo |
  
 ---
 

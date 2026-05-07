@@ -1,6 +1,20 @@
-# Mobilindo - Digital Showroom Management System
-
-Proyek ini adalah sistem manajemen showroom mobil digital yang komprehensif, dirancang untuk memfasilitasi proses jual beli mobil secara modern dan efisien. Aplikasi ini merupakan tugas akhir yang dikembangkan oleh **Harish Falih Agniawan** dan **Andre Dzikry Surya Atmojo**. Sistem ini mengintegrasikan berbagai fitur canggih mulai dari katalog interaktif hingga analisis bisnis untuk level eksekutif, memberikan solusi end-to-end bagi dealer mobil dan pelanggan.
+# Mobilindo — Sistem Penjualan dan Pembelian Mobil Bekas Berbasis Website
+ 
+> **Proyek Tugas Akhir Kelompok**  
+> Showroom Surya Abadi Mobilindo
+ 
+---
+ 
+**Mobilindo** adalah aplikasi web terintegrasi untuk manajemen jual-beli mobil bekas yang dirancang khusus untuk Showroom Surya Abadi Mobilindo. Sistem ini menggantikan pencatatan manual dengan platform digital yang mencakup manajemen inventaris, transaksi, simulasi kredit, hingga layanan chatbot berbasis AI.
+ 
+Proyek ini merupakan hasil kolaborasi dua mahasiswa dengan fokus penelitian yang saling melengkapi:
+ 
+| Sub Judul | Fokus | Peneliti |
+|-----------|-------|----------|
+| **Analisis dan Perancangan Sistem Informasi Jual-Beli Mobil Bekas pada Aplikasi Mobilindo Berbasis Website** | Core sistem: database, arsitektur, UML, simulasi kredit, frontend & backend | [Harish Falih Agniawan] |
+| **Integrasi Chatbot Multi-Agent dan RAG Chatbot Berbasis N8N untuk Optimalisasi Layanan Showroom Mobil** | AI layer: chatbot RAG, multi-agent, automation workflow N8N | [Andre Dzikry Surya Atmojo] |
+ 
+---
 
 **Preview**
 

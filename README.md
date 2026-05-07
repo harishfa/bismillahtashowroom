@@ -4,15 +4,17 @@ Proyek ini adalah sistem manajemen showroom mobil digital yang komprehensif, dir
 
 **Preview**
 
-Berikut adalah beberapa cuplikan tampilan utama dari antarmuka aplikasi Mobilindo:
+Berikut adalah dokumentasi antarmuka dari aplikasi Mobilindo yang menampilkan berbagai fitur utama:
 
 | | | |
 |:---:|:---:|:---:|
 | ![Login](screenshot/Halaman%20Login.jpeg) <br> **Halaman Login** | ![Katalog](screenshot/Halaman%20Katalog%20Mobil.png) <br> **Katalog Mobil** | ![Detail](screenshot/Detail%20Mobil.png) <br> **Detail Kendaraan** |
-| ![Simulasi](screenshot/Simulasi%20Kredit.png) <br> **Simulasi Kredit** | ![Booking](screenshot/Booking%20Test%20Drive.png) <br> **Booking Test Drive** | ![Pemesanan](screenshot/Halaman%20Pemesanan%20Mobil.png) <br> **Pemesanan** |
-| ![Admin](screenshot/Dashboard%20Admin.png) <br> **Dashboard Admin** | ![Eksekutif](screenshot/Dashboard%20Eksekutif.png) <br> **Analisis Eksekutif** | ![Chatbot](screenshot/Chatbot.png) <br> **AI Assistant** |
-| ![Riwayat](screenshot/Riwayat%20Transaksi.png) <br> **Riwayat Transaksi** | ![Manajemen](screenshot/Admin%20Manajemen%20Test%20Drive.png) <br> **Manajemen Test Drive** | ![Paket](screenshot/Pilihan%20Paket%20Iklan.png) <br> **Opsi Paket Iklan** |
-| ![Berita](screenshot/Halaman%20Berita.png) <br> **Portal Berita** | ![Formulir](screenshot/Formulir%20Iklan%20Mobil.png) <br> **Pengajuan Iklan** | |
+| ![Simulasi](screenshot/Simulasi%20Kredit.png) <br> **Simulasi Kredit** | ![Booking](screenshot/Booking%20Test%20Drive.png) <br> **Booking Test Drive** | ![Pemesanan](screenshot/Halaman%20Pemesanan%20Mobil.png) <br> **Formulir Pemesanan** |
+| ![Detail Transaksi](screenshot/Detail%20Transaksi.png) <br> **Detail Transaksi** | ![Status Pembelian](screenshot/Daftar%20Status%20Pembelian.png) <br> **Status Pembelian** | ![Riwayat](screenshot/Riwayat%20Transaksi.png) <br> **Riwayat Transaksi** |
+| ![Chat](screenshot/Chat.png) <br> **Fitur Chatting** | ![Chatbot](screenshot/Chatbot.png) <br> **AI Assistant** | ![Eskalasi Chat](screenshot/Eskalasi%20Chat.png) <br> **Eskalasi Chat AI** |
+| ![Admin](screenshot/Dashboard%20Admin.png) <br> **Dashboard Admin** | ![Manajemen TD](screenshot/Admin%20Manajemen%20Test%20Drive.png) <br> **Manajemen Test Drive** | ![Kelola Transaksi](screenshot/Kelola%20Transaksi%20Pembelian.png) <br> **Kelola Transaksi** |
+| ![Eksekutif](screenshot/Dashboard%20Eksekutif.png) <br> **Analisis Eksekutif** | ![Paket](screenshot/Pilihan%20Paket%20Iklan.png) <br> **Opsi Paket Iklan** | ![Formulir](screenshot/Formulir%20Iklan%20Mobil.png) <br> **Pengajuan Iklan** |
+| ![Berita](screenshot/Halaman%20Berita.png) <br> **Portal Berita** | | |
 
 **Fitur**
 

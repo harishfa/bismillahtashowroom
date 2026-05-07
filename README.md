@@ -7,7 +7,7 @@
  
 **Mobilindo** adalah aplikasi web terintegrasi untuk manajemen jual-beli mobil bekas yang dirancang khusus untuk Showroom Surya Abadi Mobilindo. Sistem ini menggantikan pencatatan manual dengan platform digital yang mencakup manajemen inventaris, transaksi, simulasi kredit, hingga layanan chatbot berbasis AI.
  
-Proyek ini merupakan hasil kolaborasi dua mahasiswa dengan fokus penelitian yang saling melengkapi:
+Proyek ini merupakan hasil kolaborasi dua mahasiswa dari Teknik Elektro konsentrasi Teknologi Informasi Universitas Diponegoro dengan fokus penelitian yang saling melengkapi:
  
 | Sub Judul | Fokus | Peneliti |
 |-----------|-------|----------|
